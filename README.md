@@ -235,11 +235,8 @@ git clone https://github.com/your-username/Superstore-PowerBI-Dashboard.git
 
 ## 👤 Author
 
-**Your Name**
+**Swayam Vekariya**
 
-🔗 [LinkedIn](https://linkedin.com/in/your-profile) &nbsp;|&nbsp; 💻 [GitHub](https://github.com/your-username) &nbsp;|&nbsp; 📧 your.email@example.com
-
----
 
 <div align="center">
 
