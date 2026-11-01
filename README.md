@@ -113,7 +113,8 @@ This dashboard answers all of them in one place. ✅
 
 <div align="center">
 
-![Detailed Order Information](Order_Details.png)
+<img width="1276" height="715" alt="Order Details" src="https://github.com/user-attachments/assets/6a13a9e7-00a7-4dd5-880c-271261c8f03b" />
+
 
 </div>
 
