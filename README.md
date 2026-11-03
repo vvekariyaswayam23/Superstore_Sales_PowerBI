@@ -131,12 +131,9 @@ This dashboard answers all of them in one place. ✅
 ## 🎥 Video Walkthrough
 
 ▶️ **Watch the full project demo here:**
+https://1drv.ms/v/c/add06c1d01a88aae/IQAGk956roHoSJ0WjGDIF0R6AZmyh_efTOzndSAeeaX1VvA?e=HsQhP7
 
-👉 [**Click to watch the video**](PASTE_YOUR_VIDEO_LINK_HERE)
 
-> 💡 Replace `PASTE_YOUR_VIDEO_LINK_HERE` with your YouTube / Google Drive / LinkedIn video link.
-
----
 
 ## 📈 Key KPIs
 
